@@ -1,3 +1,6 @@
 # Movie-Recommendation-System
 
-![](images/1.png)
+![](Images/1.png)
+
+
+![](Images/2.png)
